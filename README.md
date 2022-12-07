@@ -2,8 +2,14 @@
 
 ### The Time Stone: Lets get cosmic here and begin working with Time.
  First, lets create a function that converts Minutes to Seconds (1 ->60, 5 -> 300)
+ 
+ 
  Then take it up a step further, converting Hours into seconds (1 -> 3600)
+ 
+ 
  We're on the right track here, how many seconds are in a day?
+ 
+ 
  Bonus -> Without singing the old showtune in your head, how many Minutes are there in a year? 
  In days, in weeks, in cups of coffee?
 
