@@ -1,13 +1,21 @@
 # SEIR 1003 Python Challenges II
 
 ### 1) The Time Stone: Lets get cosmic here and begin working with Time.
- First, lets create a function that converts Minutes to Seconds (1 ->60, 5 -> 300)
+ - First, lets create a function that converts Minutes to Seconds (1 ->60, 5 -> 300)
  
  
- Then take it up a step further, converting Hours into seconds (1 -> 3600)
+-  Then take it up a step further, converting Hours into seconds (1 -> 3600)
  
  
- We're on the right track here, how many seconds are in a day?
+-  We're on the right track here, how many seconds are in a day?
+
+
+- How many Hours are in the month of June? 
+
+
+- How many Minutes are in the month of August?
+ 
+ 
  
  
  Bonus -> Without singing the old showtune in your head, how many Minutes are there in a year? 
@@ -21,9 +29,11 @@
 
 
 ### 2) Middle letter
+
 Write a function named mid that takes a string as its parameter. Your function should extract and return the middle letter. If there is no middle letter, your function should return the empty string.
 
 For example, mid("abc") should return "b" and mid("aaaa") should return "".
+
 
 ---------------------------------
      Solution Goes Here ->
