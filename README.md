@@ -35,3 +35,28 @@ The function should return the price of the item after the discount has been app
 ---------------------------------
      Solution Goes Here ->
 ---------------------------------
+
+
+### Pythagorean Theorum
+
+As any High School sophomore will tell you, the sum of the squares of two legs of a right trangle will equal the square of the hypotenouse.
+
+Create a function that takes two integers as the Adjacent and Opposite legs of a triangle, and returns an integer of the Hypotenouse
+
+
+---------------------------------
+     Solution Goes Here ->
+---------------------------------
+
+
+### Fibonacci Sequence 
+Everyone's favorite Math Problem!
+
+The Fibonacci numbers are the numbers in the following integer sequence.
+0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, ……..
+In mathematical terms, the sequence Fn of Fibonacci numbers is defined by the recurrence relation between two adjacent steps in a list
+Create a python function that takes two numbers and finds the next Nine intervals using the Fibonacci Sequence
+
+---------------------------------
+     Solution Goes Here ->
+---------------------------------
