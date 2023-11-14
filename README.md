@@ -1,4 +1,4 @@
-# SEIR 0911 Python Challenges II
+# SEIR 0911 Python Challenges 
 
 Before we get into Django and Database Management, lets continue practicing with this wonderful language known as Python
 
